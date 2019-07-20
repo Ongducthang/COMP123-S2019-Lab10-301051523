@@ -19,6 +19,7 @@ namespace COMP123_S2019_Lab10_301051523
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //created new forms
             startForm = new StartForm();
             mainForm = new MainForm();
             endForm = new EndForm();
